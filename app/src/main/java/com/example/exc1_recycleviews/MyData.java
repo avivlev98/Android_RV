@@ -6,16 +6,16 @@ public class MyData {
 
         static String[] nameArray = {"Name: Michael Scott", "Name: Dwight Schrute", "Name: Jim Halpert", "Name: Pam Beesly", "Name: Angela Martin", "Name: Creed Bratton", "Name: Darryl Philbin","Name: Ryan Howard", "Name: Stanley Hudson", "Name: Toby Flenderson"};
     static String[] summaryArray = {
-            "Summary: Clueless regional manager known for awkward humor.",
+            "Summary: Clueless regional manager with awkward humor.",
             "Summary: Eccentric assistant, beet farmer, survivalist.",
             "Summary: Laid-back salesman, prankster, charming.",
             "Summary: Receptionist with artistic aspirations.",
             "Summary: Uptight Party Planning head, cat lover.",
             "Summary: Mysterious quality assurance director.",
             "Summary: Down-to-earth warehouse supervisor.",
-            "Summary: Temp turned executive, climbing corporate ladder.",
-            "Summary: Grumpy salesman, loves crosswords, seeks quiet.",
-            "Summary: Ignored HR representative, annoys Michael."
+            "Summary: Temp worker want climbing corporate ladder.",
+            "Summary: Grumpy salesman,tired,seeks quiet.",
+            "Summary: The Ignored HR,annoys Michael."
     };
 
     static Integer[] drawableArray = {R.drawable.michael, R.drawable.dwight, R.drawable.jim,
